@@ -1,6 +1,6 @@
 ATIVIDADE SOBRE FILMES-LIMA 02 🎬
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=ATIVIDADE+SOBRE+FILMES+LIMA+02🎬+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0000FF&width=435&lines=ATIVIDADE+SOBRE+FILMES+LIMA+02🎬+)](https://git.io/typing-svg)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nessa atividade, foi solicitado o desenvolvimento de uma página web para apresentar uma lista de informações sobre um  filme determinado pelo aluno a partir dos ensinamentos da aula 02. De modo interativo, foi possível aprofundar e aplicar os conhecimentos fundamentais da linguagem de marcação HTML.
 
