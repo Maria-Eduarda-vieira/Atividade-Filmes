@@ -11,7 +11,7 @@ Objetivos🎯:
 -Aprender as principais tags do HTML
 -Aplicar os conteúdos aprendidos na aula 02.
 -Desenvolver uma lista de descrição do filme escolhido em uma página web.
--
+
 
 Turma: 1ID-DS
 
