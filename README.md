@@ -8,6 +8,7 @@ Ferramentas🛠️:
 - HTML5 ( Principal estruturação da página)
 
 Objetivos🎯: 
+
 -Aprender as principais tags do HTML
 
 -Aplicar os conteúdos aprendidos na aula 02.
